@@ -1,6 +1,5 @@
 - 👋 Hi, I’m David Gabriel
-- 👀 I’m interested in Machine learning, AI, Statitics, Mathematics.
-- 🌱 Graduate Diploma of Data Science at Monash University.
+- 👀 I’m interested in Machine learning, AI, Statitics, Mathematics, Cloud computing, Networking & infrastructure
 - 💞️ I’m looking to collaborate on Data science projects, Database development, Mathematical and scientifics projects with python
 - 📫 You can reach me via linkedin, github, tweitter.
 
