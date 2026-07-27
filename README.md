@@ -1,5 +1,5 @@
 - 👋 Hi, I’m David Gabriel
-- 👀 I’m interested in Machine learning, AI, Statitics, Mathematics, Cloud computing, Networking & infrastructure
+- 👀 I’m interested in Machine learning, AI, Statitics, Mathematics, Cloud computing, Cyber security and  Networking & infrastructure
 - 💞️ I’m looking to collaborate on Data science projects, Software development, and Cyber security projects.
 - 📫 You can reach me via linkedin, github, tweitter.
 
